@@ -41,6 +41,6 @@ const styles = StyleSheet.create({
     backgroundColor: theme.colorGreen,
   },
   buttonPressed: {
-    backgroundColor: theme.olorLeafyGreen,
+    backgroundColor: theme.colorLeafyGreen,
   },
 });
