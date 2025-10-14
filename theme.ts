@@ -1,4 +1,4 @@
 export const theme = {
-	colorGreen: '#29b365',
-	colorWhite: '#fff',
+  colorGreen: "#29b365",
+  colorWhite: "#fff",
 };
